@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Gui>
+  <BGImage type="Image">
+    <Body>
+      <Position>
+        <X>0</X>
+        <Y>0</Y>
+      </Position>
+    </Body>
+    <ImageRender>
+      <Texture>background</Texture>
+      <Color>
+        <R>255</R>
+        <G>255</G>
+        <B>255</B>
+        <A>255</A>
+      </Color>
+    </ImageRender>
+  </BGImage>
+  <CheckBox type="Checkbox">
+    <Body>
+      <Position>
+        <X>20</X>
+        <Y>20</Y>
+      </Position>
+    </Body>
+    <TileRender>
+      <Index>0</Index>
+      <Texture>checkbox</Texture>
+      <Color>
+        <R>255</R>
+        <G>255</G>
+        <B>255</B>
+        <A>255</A>
+      </Color>
+    </TileRender>
+    <TextRender>
+      <Text>Checkbox</Text>
+      <Font>spritefont</Font>
+    </TextRender>
+  </CheckBox>
+</Gui>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityEngineTestBed", "EntityEngineTestBed\EntityEngineTestBed\EntityEngineTestBed.csproj", "{0C0B5E6F-AB3C-45BE-A6FF-F216F9451ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityEngineTestBedContent", "EntityEngineTestBed\EntityEngineTestBedContent\EntityEngineTestBedContent.contentproj", "{38BFA44E-0FFC-42B0-A48D-3359873CD500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityEnginev2", "..\EntityEnginev2\EntityEnginev2\EntityEnginev2.csproj", "{22E28EA1-2834-43C6-92D0-86528BBDC1B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C0B5E6F-AB3C-45BE-A6FF-F216F9451ACF}.Debug|x86.ActiveCfg = Debug|x86
+		{0C0B5E6F-AB3C-45BE-A6FF-F216F9451ACF}.Debug|x86.Build.0 = Debug|x86
+		{0C0B5E6F-AB3C-45BE-A6FF-F216F9451ACF}.Release|x86.ActiveCfg = Release|x86
+		{0C0B5E6F-AB3C-45BE-A6FF-F216F9451ACF}.Release|x86.Build.0 = Release|x86
+		{38BFA44E-0FFC-42B0-A48D-3359873CD500}.Debug|x86.ActiveCfg = Debug|x86
+		{38BFA44E-0FFC-42B0-A48D-3359873CD500}.Release|x86.ActiveCfg = Release|x86
+		{22E28EA1-2834-43C6-92D0-86528BBDC1B8}.Debug|x86.ActiveCfg = Debug|x86
+		{22E28EA1-2834-43C6-92D0-86528BBDC1B8}.Debug|x86.Build.0 = Debug|x86
+		{22E28EA1-2834-43C6-92D0-86528BBDC1B8}.Release|x86.ActiveCfg = Release|x86
+		{22E28EA1-2834-43C6-92D0-86528BBDC1B8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
